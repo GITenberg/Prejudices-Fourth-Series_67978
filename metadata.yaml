@@ -1,0 +1,34 @@
+_repo: Prejudices-Fourth-Series_67978
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mencken, H. L. (Henry Louis)
+    aliases:
+    - Mencken, Henry L.
+    - Hatteras, Owen
+    - Mencken, Henry Louis
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '578'
+    url: http://www.gutenberg.org/2009/agents/578
+    wikipedia: https://en.wikipedia.org/wiki/H._L._Mencken
+description: ''
+gutenberg_issued: '2022-05-03'
+identifiers:
+  gutenberg: '67978'
+language: en
+pgterms:marc904: https://archive.org/details/prejudicesfourth0000menc_p2g7
+pgterms:marc905: 20210428142004mencken
+pgterms:marc906: '1924'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United States :Alfred A. Knopf,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Prejudices: Fourth Series'
+url: http://www.gutenberg.org/ebooks/67978
